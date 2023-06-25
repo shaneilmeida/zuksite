@@ -10,16 +10,15 @@ function Grid({ items, children }: Props) {
     <div
       id={children}
       style={{
-        display: "flex",
-        flexDirection: "row",
-        flexWrap: "wrap",
+        display: "grid",
+        gridTemplateColumns: "auto auto auto",
         position: "absolute",
         top: "98px",
         left: "0",
-        width: "100%",
         justifyContent: "center",
         backgroundColor: "black",
         overflowY: "auto",
+        width: "100%",
       }}
     >
       {items.map((item) => (
