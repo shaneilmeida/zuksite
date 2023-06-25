@@ -18,13 +18,13 @@ const Tabs = () => {
           className={activeTab === "tab1" ? "active" : ""}
           onClick={handleTab1}
         >
-          Tab 1
+          All
         </li>
         <li
           className={activeTab === "tab2" ? "active" : ""}
           onClick={handleTab2}
         >
-          Tab 2
+          Animations
         </li>
       </ul>
       <div className="outlet">
