@@ -36,7 +36,6 @@ const animations = ["/pfp.png"];
 function App() {
   return (
     <div>
-      // <Hero />
       <Tabs />
       <Grid items={photos}>all</Grid>
       <Grid items={animations}>animations</Grid>
