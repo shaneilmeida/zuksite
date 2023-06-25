@@ -10,8 +10,9 @@ function Grid({ items, children }: Props) {
     <div
       id={children}
       style={{
-        display: "grid",
-        gridTemplateColumns: "auto auto auto",
+        display: "flex",
+        flex: "1 1 auto",
+        flexWrap: "wrap",
         position: "absolute",
         top: "98px",
         left: "0",
