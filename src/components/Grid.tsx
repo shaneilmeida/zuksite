@@ -25,16 +25,28 @@ function Grid({ items, children }: Props) {
       {items.map((item) => (
         <div
           style={{
-            height: "260px",
-            width: "260px",
-            maxHeight: "260px",
-            maxWidth: "260px",
+            height: "auto",
+            width: "auto",
+            minHeight: "260px",
+            minWidth: "260px",
+            maxHeight: "500px",
+            maxWidth: "500px",
             overflowY: "auto",
             overflow: "hidden",
             backgroundColor: "white",
           }}
         >
-          <img style={{ maxHeight: "260px", maxWidth: "260px" }} src={item} />
+          <img
+            style={{
+              height: "auto",
+              width: "auto",
+              minHeight: "260px",
+              minWidth: "260px",
+              maxHeight: "500px",
+              maxWidth: "500px",
+            }}
+            src={item}
+          />
         </div>
       ))}
     </div>
