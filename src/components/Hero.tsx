@@ -35,6 +35,7 @@ const hero = () => {
       <h1 style={{ color: "white", textAlign: "center", marginTop: "540px" }}>
         Zukry
       </h1>
+      <p>follow tays twitch hehe</p>
     </div>
   );
 };
