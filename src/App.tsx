@@ -1,6 +1,7 @@
 import Hero from "./components/Hero";
 import Grid from "./components/Grid";
 import Tabs from "./components/TabComponent/Tabs";
+import "./App.css";
 
 const photos = [
   "/pfp.png",
