@@ -12,21 +12,25 @@
  overflow: hidden;
 }
 .Tabs {
- width: 80%;
- height: auto;
- min-height: 400px;
+ position: absolute;
+ top: 700px;
+ width: 100%;
+ height: 10%;
+ min-height: 20px;
  background: #053742;
- margin: 3.5rem auto 1.5rem;
  padding: 2rem 1rem;
  color: #E8F0F2;
- border-radius: 2rem;
  @media (max-width: 769px) {
   padding: 2rem 0;
  }
 }
 ul.nav {
-  width: 60%;
-  margin: 0 auto 2rem;
+  position: absolute;
+  top: 20%;
+  left: 0;
+  right: 0;
+  width: 20%;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
