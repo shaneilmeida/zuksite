@@ -1,5 +1,4 @@
 import Hero from "./components/Hero";
-import Nav from "./components/Nav";
 import Grid from "./components/Grid";
 import Tabs from "./components/TabComponent/Tabs";
 
