@@ -1,9 +1,12 @@
 import React from "react";
+import Grid from "../Grid";
+
+const photos = ["/pfp.png", "/pfp.png", "/pfp.png"];
+
 const FirstTab = () => {
   return (
     <div className="FirstTab">
-      <p>First Tab!! Hurray!!</p>
-      {/* First tab content will go here */}
+      <Grid items={photos}>all</Grid>
     </div>
   );
 };

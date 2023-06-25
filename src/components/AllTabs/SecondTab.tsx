@@ -1,9 +1,12 @@
 import React from "react";
+import Grid from "../Grid";
+
+const animations = ["/pfp.png"];
+
 const SecondTab = () => {
   return (
     <div className="SecondTab">
-      <p>Second Tab!! Hurray!!</p>
-      {/* Second  tab content will go here */}
+      <Grid items={animations}>Animations</Grid>
     </div>
   );
 };
