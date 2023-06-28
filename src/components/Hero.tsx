@@ -33,7 +33,7 @@ const hero = () => {
         <img src="/pfp.png" />
       </div>
       <h1 style={{ color: "white", textAlign: "center", marginTop: "540px" }}>
-        Zukry
+        Xander Good
       </h1>
     </div>
   );
