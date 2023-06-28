@@ -5,6 +5,8 @@ const photos = [
   "/1.png",
   "/2.png",
   "/3.png",
+  "/5.png",
+  "/6.png",
 ];
 
 const FirstTab = () => {
