@@ -21,18 +21,18 @@ const hero = () => {
           width: "150px",
           overflow: "hidden",
           display: "flex",
-          justifyContent: "center",
+          justifyContent: "left",
           borderRadius: "50%",
           position: "fixed",
           left: "0",
           right: "0",
-          top: "370px",
+          top: "70px",
           margin: "auto",
         }}
       >
         <img src="/pfp.png" />
       </div>
-      <h1 style={{ color: "white", textAlign: "center", marginTop: "540px" }}>
+      <h1 style={{ color: "white", textAlign: "left", marginTop: "80px" }}>
         Xander Good
       </h1>
     </div>
