@@ -21,6 +21,7 @@ const hero = () => {
           width: "150px",
           overflow: "hidden",
           display: "flex",
+          justifyContent: "flex-star",
           borderRadius: "50%",
           position: "fixed",
           left: "0",
