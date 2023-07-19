@@ -21,7 +21,7 @@ const hero = () => {
           width: "150px",
           overflow: "hidden",
           display: "flex",
-          justifyContent: "flex-star",
+          justifyContent: "flex-start",
           borderRadius: "50%",
           position: "fixed",
           left: "0",
@@ -30,7 +30,7 @@ const hero = () => {
           margin: "auto",
         }}
       >
-        <img src="/pfp.png" />
+        <img src='/pfp.png' />
       </div>
       <h1 style={{ color: "white", textAlign: "left", marginTop: "80px" }}>
         Xander Good
