@@ -21,13 +21,13 @@ const hero = () => {
           width: "150px",
           overflow: "hidden",
           display: "flex",
-          justifyContent: "flex-start",
+          justifyContent: "center",
           borderRadius: "50%",
           position: "fixed",
           left: "0",
           right: "0",
           top: "70px",
-          margin: "auto",
+          margin: "20px",
         }}
       >
         <img src='/pfp.png' />
