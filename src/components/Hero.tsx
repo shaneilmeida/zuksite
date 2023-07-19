@@ -32,7 +32,14 @@ const hero = () => {
       >
         <img src='/pfp.png' />
       </div>
-      <h1 style={{ color: "white", textAlign: "left", marginTop: "80px" }}>
+      <h1
+        style={{
+          color: "white",
+          textAlign: "left",
+          marginTop: "180px",
+          marginLeft: "20px",
+        }}
+      >
         Xander Good
       </h1>
     </div>
