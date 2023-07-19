@@ -16,8 +16,6 @@
 - [ ] fancy ass animation on the hero elements
 - [ ] make hero smaller
 
-      <br>
-
 ## Extra To:Do list
 
 - [ ] make the hero a bit easier to manage and less shite
