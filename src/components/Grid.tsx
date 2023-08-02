@@ -34,8 +34,8 @@ function Grid({ items, children }: Props) {
         >
           <img
             style={{
-              height: "360px",
-              width: "640px",
+              height: "180px",
+              width: "320px",
             }}
             src={item}
           />
