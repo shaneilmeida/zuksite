@@ -17,7 +17,9 @@ function Grid({ items, children }: Props) {
         top: "78px",
         left: "0",
         justifyContent: "center",
-        backgroundColor: "black",
+        background: "rgb(24,24,28)",
+        background:
+          "linear-gradient(180deg, rgba(24,24,28,1) 0%, rgba(56,56,56,1) 100%)",
         overflowY: "auto",
         width: "100%",
       }}
