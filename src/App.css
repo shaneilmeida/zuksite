@@ -26,7 +26,7 @@
 }
 ul.nav {
   position: absolute;
-  top: 20%;
+  top: 6%;
   left: 0;
   right: 0;
   width: 20%;
@@ -35,6 +35,7 @@ ul.nav {
   align-items: center;
   justify-content: space-between;
   padding-left: 0px;
+  flex-wrap: nowrap;
   @media (max-width: 768px) {
     width: 90%;
   }
