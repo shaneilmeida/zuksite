@@ -42,6 +42,16 @@ const hero = () => {
       >
         Xander Good
       </h1>
+      <h3
+        style={{
+          color: "white",
+          textAlign: "left",
+          marginTop: "190px",
+          marginLeft: "20px",
+        }}
+      >
+        Lorem Ipsum
+      </h3>
     </div>
   );
 };
