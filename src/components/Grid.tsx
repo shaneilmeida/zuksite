@@ -14,7 +14,7 @@ function Grid({ items, children }: Props) {
         flex: "1 1 auto",
         flexWrap: "wrap",
         position: "absolute",
-        top: "98px",
+        top: "78px",
         left: "0",
         justifyContent: "center",
         backgroundColor: "black",

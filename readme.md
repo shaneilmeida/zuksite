@@ -1,7 +1,7 @@
 # Tays To:Do list
 
-- [ ] make navbar thinner
-- [ ] make nav buttons round and smaller
+- [x] make navbar thinner
+- [x] make nav buttons round and smaller
 - [ ] make the images scale (fuck that shit)
   - [ ] cropped
 - [ ] hero to top left
