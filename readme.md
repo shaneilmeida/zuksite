@@ -2,8 +2,7 @@
 
 - [x] make navbar thinner
 - [x] make nav buttons round and smaller
-- [ ] make the images scale
-  - [ ] cropped
+- [x] make the images scale
 - [x] hero to top left
 - [x] make nav grey colour go everywhere or smth and then gradient
   - [x] #383838
