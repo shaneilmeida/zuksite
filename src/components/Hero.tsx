@@ -46,7 +46,7 @@ const hero = () => {
         style={{
           color: "white",
           textAlign: "left",
-          marginTop: "190px",
+          marginTop: "0px",
           marginLeft: "20px",
         }}
       >
