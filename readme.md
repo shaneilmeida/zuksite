@@ -2,18 +2,18 @@
 
 - [x] make navbar thinner
 - [x] make nav buttons round and smaller
-- [ ] make the images scale (fuck that shit)
+- [ ] make the images scale
   - [ ] cropped
 - [x] hero to top left
-- [ ] make nav grey colour go everywhere or smth and then gradient
-  - [ ] #383838
-  - [ ] bottom
-  - [ ] make nav gradient into above colour
-- [ ] add a bio and put it on the left
+- [x] make nav grey colour go everywhere or smth and then gradient
+  - [x] #383838
+  - [x] bottom
+  - [x] make nav gradient into above colour
+- [x] add a bio and put it on the left
 - [ ] social icons
   - [ ] animated
   - [ ] no colour plain ass biatch
-- [ ] fancy ass animation on the hero elements
+- [ ] fancy ass animation on the hero elements (i forgot what this meant so fuck it)
 - [ ] make hero smaller
 
 ## Extra To:Do list
