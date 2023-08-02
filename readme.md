@@ -13,7 +13,7 @@
   - [ ] animated
   - [ ] no colour plain ass biatch
 - [ ] fancy ass animation on the hero elements (i forgot what this meant so fuck it)
-- [ ] make hero smaller
+- [x] make hero smaller
 
 ## Extra To:Do list
 
