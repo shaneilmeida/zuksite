@@ -26,8 +26,8 @@ function Grid({ items, children }: Props) {
       {items.map((item) => (
         <div
           style={{
-            height: "90px",
-            width: "160px",
+            height: "360px",
+            width: "640px",
             overflowY: "auto",
             overflow: "hidden",
           }}
