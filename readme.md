@@ -4,7 +4,7 @@
 - [x] make nav buttons round and smaller
 - [ ] make the images scale (fuck that shit)
   - [ ] cropped
-- [ ] hero to top left
+- [x] hero to top left
 - [ ] make nav grey colour go everywhere or smth and then gradient
   - [ ] #383838
   - [ ] bottom

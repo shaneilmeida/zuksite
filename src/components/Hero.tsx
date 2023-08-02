@@ -26,7 +26,7 @@ const hero = () => {
           position: "fixed",
           left: "0",
           right: "0",
-          top: "70px",
+          top: "10px",
           margin: "20px",
         }}
       >
