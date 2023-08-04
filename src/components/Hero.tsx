@@ -50,7 +50,7 @@ const hero = () => {
           marginLeft: "20px",
         }}
       >
-        Lorem Ipsum
+        3D animatior at Motion Realm
       </h3>
     </div>
   );
