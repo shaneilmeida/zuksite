@@ -50,7 +50,7 @@ const hero = () => {
           marginLeft: "20px",
         }}
       >
-        3D animatior at Motion Realm
+        Producer at Motion Realm
       </h3>
     </div>
   );
