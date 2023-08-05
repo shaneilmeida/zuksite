@@ -12,7 +12,10 @@
 - [ ] social icons
   - [ ] animated
   - [ ] no colour plain ass biatch
-- [ ] fancy ass animation on the hero elements (i forgot what this meant so fuck it)
+  - [ ] zuk plase list links here
+- [ ] fancy ass animation on the hero elements
+  - [ ] fade in
+  - [ ] slide in from left
 - [x] make hero smaller
 
 ## Extra To:Do list
