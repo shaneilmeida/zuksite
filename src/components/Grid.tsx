@@ -19,7 +19,7 @@ function Grid({ items, children }: Props) {
         justifyContent: "center",
         background:
           "linear-gradient(180deg, rgba(24,24,28,1) 0%, rgba(56,56,56,1) 100%)",
-        overflowY: "auto",
+        overflowY:auto
         width: "100%",
       }}
     >
@@ -28,7 +28,7 @@ function Grid({ items, children }: Props) {
           style={{
             height: "270px",
             width: "480px",
-            overflowY: "auto",
+            overflowY:auto
           }}
         >
           <img
