@@ -8,6 +8,8 @@
   - [ ] no colour plain ass biatch
   - [ ] zuk plase list links here
 
+  make the animation page into one bit animation that covers the bottom of the screen
+
 ## Extra To:Do list
 
 - [ ] make the hero a bit easier to manage and less shit
