@@ -48,7 +48,7 @@ ul.nav li {
   cursor: pointer;
   transition: all 0.7s;
   border-radius: 25px;
-  margin: 5px;
+  margin: 0px;
 }
 ul.nav li:hover {
   background: rgba(50, 224, 196, 0.15);
