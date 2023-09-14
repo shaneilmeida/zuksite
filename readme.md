@@ -6,7 +6,7 @@
 - [ ] social icons
   - [ ] animated
   - [ ] no colour plain ass biatch
-  - [ ] zuk plase list links here
+  - [ ] linkedin instagram
 
   make the animation page into one bit animation that covers the bottom of the screen
 
