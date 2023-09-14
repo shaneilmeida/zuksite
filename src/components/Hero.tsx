@@ -4,7 +4,7 @@ const hero = () => {
   return (
     <div
       style={{
-        backgroundImage: "url(/hero.webp)",
+        backgroundImage: "url(/1681905020896.jpeg)",
         backgroundPosition: "center",
         backgroundSize: "cover",
         width: "100vw",
