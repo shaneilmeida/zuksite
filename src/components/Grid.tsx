@@ -29,7 +29,6 @@ function Grid({ items, children }: Props) {
             height: "270px",
             width: "480px",
             overflowY: "auto",
-            overflow: "hidden",
           }}
         >
           <img
