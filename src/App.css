@@ -47,7 +47,7 @@ ul.nav li {
   text-align: center;
   cursor: pointer;
   transition: all 0.7s;
-  border-radius: 25px;
+  border-radius: 0px;
   margin: 0px;
 }
 ul.nav li:hover {
