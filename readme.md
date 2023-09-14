@@ -5,7 +5,7 @@
   - [ ] slide in from left
 - [ ] social icons
   - [ ] animated
-  - [ ] no colour plain ass biatch
+  - [ ] grey
   - [ ] linkedin instagram
 
   make the animation page into one bit animation that covers the bottom of the screen
