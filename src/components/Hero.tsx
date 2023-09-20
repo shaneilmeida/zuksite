@@ -12,14 +12,14 @@ const hero = () => {
         position: "fixed",
         top: "0",
         left: "0",
-        overflow:auto,
+        overflow: "auto",
       }}
     >
       <div
         style={{
           height: "150px",
           width: "150px",
-          overflow:auto,
+          overflow: "auto",
           display: "flex",
           justifyContent: "center",
           borderRadius: "50%",
