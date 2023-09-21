@@ -24,7 +24,7 @@ const Tabs = () => {
           className={activeTab === "tab2" ? "active" : ""}
           onClick={handleTab2}
         >
-          Animations
+          Showreel
         </li>
       </ul>
       <div className="outlet">
