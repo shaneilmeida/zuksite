@@ -8,7 +8,7 @@ const hero = () => {
         backgroundPosition: "center",
         backgroundSize: "cover",
         width: "100vw",
-        height: "600px",
+        height: "1200px",
         position: "fixed",
         top: "0",
         left: "0",
