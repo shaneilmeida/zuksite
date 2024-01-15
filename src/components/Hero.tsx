@@ -40,7 +40,7 @@ const hero = () => {
           marginLeft: "20px",
         }}
       >
-        Xander Good
+        Shaneil Almeida
       </h1>
       <h3
         style={{
@@ -50,7 +50,7 @@ const hero = () => {
           marginLeft: "20px",
         }}
       >
-        Producer at Motion Realm
+        3D Artist
       </h3>
     </div>
   );
