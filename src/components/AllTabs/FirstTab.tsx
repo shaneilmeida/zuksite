@@ -2,12 +2,9 @@ import React from "react";
 import Grid from "../Grid";
 
 const photos = [
-  "/trees and temple.png",
-  "/woman on balcony.png",
-  "/lighthouse.png",
-  "/living room.png",
-  "/fallen game case.png",
-  "/bedroom.png",
+  "/Helmet2.png",
+  "/horror laptop.png",
+  "/ring.png",
 ];
 
 const FirstTab = () => {
