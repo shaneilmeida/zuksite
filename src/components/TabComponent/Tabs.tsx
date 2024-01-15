@@ -18,7 +18,7 @@ const Tabs = () => {
           className={activeTab === "tab1" ? "active" : ""}
           onClick={handleTab1}
         >
-          All
+          Images
         </li>
         <li
           className={activeTab === "tab2" ? "active" : ""}
