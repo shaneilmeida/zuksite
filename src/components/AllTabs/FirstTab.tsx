@@ -2,7 +2,7 @@ import React from "react";
 import Grid from "../Grid";
 
 const photos = [
-  "/Helmet2.png",
+  "/Helmet 2.png",
   "/horror laptop.png",
   "/ring.png",
 ];
