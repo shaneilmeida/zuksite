@@ -1,7 +1,7 @@
 import React from "react";
 import Grid from "../Grid";
 
-const animations = ["/pfp.png"];
+const animations = ["/barubasu clashMK1.mp4"];
 
 const SecondTab = () => {
   return (
