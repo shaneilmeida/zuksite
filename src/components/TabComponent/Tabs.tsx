@@ -27,12 +27,6 @@ const Tabs = () => {
           className={activeTab === "tab2" ? "active" : ""}
           onClick={handleTab2}
         >
-          The Light Source
-        </li>
-        <li
-          className={activeTab === "tab3" ? "active" : ""}
-          onClick={handleTab3}
-        >
           One-Two
         </li>
       </ul>
