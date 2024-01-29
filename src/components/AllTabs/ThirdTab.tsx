@@ -2,7 +2,10 @@ import React from "react";
 import Grid from "../Grid";
 
 const photos = [
-
+  "/SP gobo.png",
+  "/archer gobo.png",
+  "/pants gobo.png",
+  "/sword gobo.png",
 ];
 
 const ThirdTab = () => {
