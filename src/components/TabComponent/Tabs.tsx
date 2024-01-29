@@ -37,7 +37,7 @@ const Tabs = () => {
         </li>
       </ul>
       <div className="outlet">
-        {activeTab === "tab1" ? <FirstTab /> : <SecondTab /> : <ThirdTab />}
+        {activeTab === "tab1" ? <FirstTab /> : <SecondTab />}
       </div>
     </div>
   );
