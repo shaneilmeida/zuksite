@@ -30,14 +30,14 @@ const Tabs = () => {
           The Light Source
         </li>
         <li
-          className={activeTab === "tab1" ? "active" : ""}
-          onClick={handleTab1}
+          className={activeTab === "tab3" ? "active" : ""}
+          onClick={handleTab3}
         >
           One-Two
         </li>
       </ul>
       <div className="outlet">
-        {activeTab === "tab1" ? <FirstTab /> : <SecondTab />}
+        {activeTab === "tab1" ? <FirstTab /> : <SecondTab /> : <ThirdTab />}
       </div>
     </div>
   );
