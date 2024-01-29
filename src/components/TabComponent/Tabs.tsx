@@ -10,6 +10,9 @@ const Tabs = () => {
   const handleTab2 = () => {
     setActiveTab("tab2");
   };
+  const handleTab3 = () => {
+    setActiveTab("tab3");
+  };
   return (
     <div className="Tabs">
       {/* Tab nav */}
@@ -18,13 +21,19 @@ const Tabs = () => {
           className={activeTab === "tab1" ? "active" : ""}
           onClick={handleTab1}
         >
-          Images
+          Sin of Greed
         </li>
         <li
           className={activeTab === "tab2" ? "active" : ""}
           onClick={handleTab2}
         >
-          Showreel
+          The Light Source
+        </li>
+        <li
+          className={activeTab === "tab1" ? "active" : ""}
+          onClick={handleTab1}
+        >
+          One-Two
         </li>
       </ul>
       <div className="outlet">
