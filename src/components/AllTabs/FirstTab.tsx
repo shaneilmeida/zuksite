@@ -4,7 +4,6 @@ import Grid from "../Grid";
 const photos = [
   "/horror laptop.png",
   "/ring.png",
-  "/Monster 2.JPG",
   "/SP gobo.png",
   "/archer gobo.png",
   "/pants gobo.png",
